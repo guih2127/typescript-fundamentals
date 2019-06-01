@@ -1,0 +1,7 @@
+// o tsconfig.json contém as config. básicas do compilador
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "noEmitOnError": false
+    }
+}
